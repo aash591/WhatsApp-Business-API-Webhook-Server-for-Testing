@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WhatsApp Business API Webhook Server
 
 A Node.js server for handling WhatsApp Business API webhooks with automatic message processing and reply functionality.
@@ -261,3 +262,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 **Made with ❤️ for WhatsApp Business API integration**
+=======
+# WhatsApp-Business-API-Webhook-Server-for-Testing
+>>>>>>> af3e7c9ced7957e5af087d4fe5c88ebae9d75198
