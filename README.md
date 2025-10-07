@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WhatsApp Business API Webhook Server
 
 A Node.js server for handling WhatsApp Business API webhooks with automatic message processing and reply functionality.
